@@ -1,0 +1,2 @@
+# klasifikasi_jamur_dapat_dimakan_dan_beracun
+algoritma menggunakan decision tree
